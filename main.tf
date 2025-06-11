@@ -22,5 +22,3 @@ provider "azurerm" {
 }
 
 
-# git adding a resource group
-# git adding a storage account
