@@ -22,3 +22,4 @@ provider "azurerm" {
 }
 
 
+# git adding a resource group
